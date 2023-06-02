@@ -1,7 +1,10 @@
 ### BEM VINDO AO MEU PERFIL 😊
 
-M eu nome e luiz adiano lucca
+Meu nome e Luiz Adriano Lucca
 
-- Estou esudando no alura a linguage de programaçao: `JavaScript 🖥️`
--  Sou iniciante em progamação, ms pretendo melhorar 📈
--   Utiliso esse  espaço para minha organizaçao e compartilhamento dos meus projeto desenvolviddos :a
+- Estou estudando no alura a linguagem de programação: `JavaScript 🖥️`
+- Sou iniciante em progamação, mas pretendo melhorar 
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos ✔️
+
+### VOCÊ PODE ENTRAR EM CONTATO COMIGO !
+- Meu email é: lucca.luiz@escol.pr.gov.br
