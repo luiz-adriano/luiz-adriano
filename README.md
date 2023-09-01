@@ -1,8 +1,8 @@
-### BEM VINDO AO MEU PERFIL 😊
+### BEM VINDO AO MEU PERFIL 🙂
 
 Meu nome e Luiz Adriano Lucca
 
-- Estou esudando no alura a linguagem de programação: `JavaScript 🖥️`
+- Estou esudando no [alura](https://www.alura.com.br/), a linguagem de programação: `JavaScript 🖥️`
 - Sou iniciante em progamação, mas pretendo melhorar 📈
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolviddos ✔️
 
